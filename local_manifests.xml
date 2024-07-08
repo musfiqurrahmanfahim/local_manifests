@@ -71,8 +71,5 @@
 
  <!-- Mi439 - Kernel 4.19 -->
   <project path="device/xiaomi/Mi439_4_19" name="android_device_xiaomi_Mi439_4_19" groups="device" remote="mi-thorium" revision="a11/master"/>
-  <project path="kernel" name="kernel_msm-4.19" groups="kernel" revision="mithorium/a13/master" >
-    <linkfile src="drivers" dest="drivers" />
-  </project>
   
 </manifest>
