@@ -113,6 +113,5 @@
   <remove-project path="packages/providers/DownloadProvider"/>
 
   <project path="packages/providers/DownloadProvider" name="musfiqurrahmanfahim/android_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" revision="lineage-19.1" remote="github"/>
-  </project>
   
 </manifest>
